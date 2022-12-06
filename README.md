@@ -1,7 +1,8 @@
 # dekaclock
 
 This contains schematics for the dekatron clock I build. See it in action here:
-https://www.youtube.com/watch?v=hG6PmNYgzMA
+
+[![Dekaclock Finished](https://img.youtube.com/vi/hG6PmNYgzMA/0.jpg)](https://www.youtube.com/watch?v=hG6PmNYgzMA)
 
 The clock uses no silicon - from power supply to all the logic involved, it uses vaccuum tubes and cold cathode tubes. It includes an interface for an *external* device to help set the time automatically.
 
