@@ -5,10 +5,16 @@ https://www.youtube.com/watch?v=hG6PmNYgzMA
 
 The clock uses no silicon - from power supply to all the logic involved, it uses vaccuum tubes and cold cathode tubes. It includes an interface for an *external* device to help set the time automatically.
 
+This inspired by (and has used a number of design ideas from) this project: https://wv7u.com/cwc/hourglass.html
+Many thanks to wv7u!
+
 List of tubes used:
 * [A101](http://www.tube-tester.com/sites/nixie/datdekat/A101/A101.htm) dekatron
 * [Z700U](https://frank.pocnet.net/sheets/129/z/Z700U.pdf) cold cathode trigger tube
-* 
+* [6U5C]
+* [6F5P](https://frank.pocnet.net/sheets/113/6/6F5P.pdf) pentode/triode
+* [6N23P](https://frank.pocnet.net/sheets/112/6/6N23P.pdf) dual triode
+* [6N2P](https://frank.pocnet.net/sheets/113/6/6N2P.pdf) dual triode
 
 ## How it works
 
