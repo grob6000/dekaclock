@@ -11,7 +11,7 @@ Many thanks to wv7u!
 List of tubes used:
 * [A101](http://www.tube-tester.com/sites/nixie/datdekat/A101/A101.htm) dekatron
 * [Z700U](https://frank.pocnet.net/sheets/129/z/Z700U.pdf) cold cathode trigger tube
-* [6U5C]
+* [6U5C](https://github.com/grob6000/dekaclock/blob/main/6u5c.pdf)
 * [6F5P](https://frank.pocnet.net/sheets/113/6/6F5P.pdf) pentode/triode
 * [6N23P](https://frank.pocnet.net/sheets/112/6/6N23P.pdf) dual triode
 * [6N2P](https://frank.pocnet.net/sheets/113/6/6N2P.pdf) dual triode
