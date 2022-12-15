@@ -1,6 +1,6 @@
 # dekaclock
 
-This contains schematics for the dekatron clock I build. See it in action here:
+This contains schematics for the dekatron clock I built. See it in action here:
 
 [![Dekaclock Finished](https://img.youtube.com/vi/hG6PmNYgzMA/0.jpg)](https://www.youtube.com/watch?v=hG6PmNYgzMA)
 
