@@ -94,7 +94,7 @@ As all the control inputs require only grounding, controls are operated using op
 
 Cathode lines are monitored with MOSFET (2N7002) buffers and voltage dividers. With the divider, these cope with the negative pulses, and present a 10MOhm or so load to the cathode line.
 
-The firmware uses the cathode lines to advance the hours and minutes to zero, then advances (open loop) the required number of pulses to set the time. This is done slightly in advance of the desired time, and the run signal is released on the mark time.
+The firmware uses the cathode lines to advance the hours and minutes to zero, then advances (open loop) the required number of pulses to set the time. This is done slightly in advance of the desired time, and the run signal is released on the mark time. The firmware is located [here](https://github.com/grob6000/dekacontroller-firmware) if you're interested.
 
 While running, the cathode signals change to zero, the firmware calculates whether the clock has drifted, and whether the configuration of zeros it sees match the time that should be shown.
 
