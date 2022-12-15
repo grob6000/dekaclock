@@ -98,4 +98,4 @@ The firmware uses the cathode lines to advance the hours and minutes to zero, th
 
 While running, the cathode signals change to zero, the firmware calculates whether the clock has drifted, and whether the configuration of zeros it sees match the time that should be shown.
 
-An ESP8266 has also been added (using the serial TX line of the microcontroller) to add [HomeAssistant](https://www.home-assistant.io/) interface (using [ESPHome](https://esphome.io/)).
+An ESP8266 has also been added (using the serial TX line of the microcontroller) to add [HomeAssistant](https://www.home-assistant.io/) interface (using [ESPHome](https://esphome.io/)). I have created an esphome [external component](https://esphome.io/components/external_components.html), which is available [here](https://github.com/grob6000/dekacontroller-esphome).
